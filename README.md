@@ -41,6 +41,7 @@ The Phantom source code is structured as follows:
 | `src/setup`      | source for Phantomsetup utility                       |
 | `src/tests`      | source for unit tests and the Phantom testsuite       |
 | `src/utils`      | source for optional utilities and analysis            |
+| `scripts/piper_tts_gui.py` | dark themed Piper text-to-speech front-end (see `docs/piper_studio.md`) |
 
 Getting help
 ------------

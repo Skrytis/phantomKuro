@@ -1,0 +1,41 @@
+[
+  {
+    "id": "en_US-lessac-high",
+    "name": "Lessac (US English High)",
+    "description": "A clear US English female voice that balances warmth with articulation. Popular among Piper users for narration and general-purpose synthesis.",
+    "language": "English (United States)",
+    "quality": "High",
+    "speaker": null,
+    "model": "voices/en_US-lessac-high/en_US-lessac-high.onnx",
+    "config": "voices/en_US-lessac-high/en_US-lessac-high.onnx.json",
+    "download": "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US-lessac-high.onnx",
+    "download_config": "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US-lessac-high.onnx.json",
+    "sample_rate": 22050
+  },
+  {
+    "id": "en_US-libritts-high",
+    "name": "LibriTTS (US English High)",
+    "description": "A natural sounding US English voice built from LibriTTS data. Favoured for its expressive tone and intelligibility.",
+    "language": "English (United States)",
+    "quality": "High",
+    "speaker": null,
+    "model": "voices/en_US-libritts-high/en_US-libritts-high.onnx",
+    "config": "voices/en_US-libritts-high/en_US-libritts-high.onnx.json",
+    "download": "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US-libritts-high.onnx",
+    "download_config": "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US-libritts-high.onnx.json",
+    "sample_rate": 22050
+  },
+  {
+    "id": "en_GB-semaine-high",
+    "name": "SEMAINE (British English High)",
+    "description": "A polished British English voice with a calm delivery, widely recommended for clarity and storytelling.",
+    "language": "English (United Kingdom)",
+    "quality": "High",
+    "speaker": null,
+    "model": "voices/en_GB-semaine-high/en_GB-semaine-high.onnx",
+    "config": "voices/en_GB-semaine-high/en_GB-semaine-high.onnx.json",
+    "download": "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_GB-semaine-high.onnx",
+    "download_config": "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_GB-semaine-high.onnx.json",
+    "sample_rate": 22050
+  }
+]
